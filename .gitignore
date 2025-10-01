@@ -31,7 +31,6 @@ coverage/
 *.cover
 
 # Build output
-dist/
 build/
 
 # Misc
