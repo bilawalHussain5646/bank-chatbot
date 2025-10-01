@@ -1,0 +1,39 @@
+# Node modules
+node_modules/
+
+# Composer dependencies
+vendor/
+
+# Environment files
+.env
+.env.*
+
+# Log files
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# PHPStorm
+*.iml
+
+# Cache
+cache/
+*.cache
+
+# Coverage reports
+coverage/
+*.cover
+
+# Build output
+dist/
+build/
+
+# Misc
+*.bak
+*.tmp
